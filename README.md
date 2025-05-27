@@ -17,4 +17,7 @@ Initially, the dataset contained many classes. We reduced the number of classes 
 5. Harvested  
 6. Non-paddy (non-rice area)
 
+![Dataset Overview](resources/output1.png)
+
+
 
