@@ -1,1 +1,2 @@
-# semanticricefield
+#Semantic Segmentation of Sentinel-2 Satellite Image for Rice Growth Phase Classification Using Deep Learning
+This repo contains the supported code and configuration files to reproduce semantic segmentation results of U-Net and Classifcation CNN. It is based on segmentaion. In addition, we provide pre-trained models for the semantic segmentation of satellite images into rice fields and classifify of rice growth field (land preparartion, early vegetative, late vegetative, generative, harvested). The full description of this work is available on IEEE proceeding paper.
